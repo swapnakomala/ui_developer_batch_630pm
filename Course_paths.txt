@@ -1,0 +1,2 @@
+Visual studio code path:
+C:\Users\sappi\AppData\Local\Programs\Microsoft VS Code
